@@ -1,0 +1,9 @@
+C:\Users\Alexander\AppData\Local\Temporary Projects\Сумма\bin\Debug\Сумма.exe.config
+C:\Users\Alexander\AppData\Local\Temporary Projects\Сумма\bin\Debug\Сумма.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\Сумма\bin\Debug\Сумма.pdb
+C:\Users\Alexander\AppData\Local\Temporary Projects\Сумма\bin\Debug\Сумма.xml
+C:\Users\Alexander\AppData\Local\Temporary Projects\Сумма\obj\Debug\Сумма.Resources.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\Сумма\obj\Debug\Сумма.vbproj.GenerateResource.Cache
+C:\Users\Alexander\AppData\Local\Temporary Projects\Сумма\obj\Debug\Сумма.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\Сумма\obj\Debug\Сумма.xml
+C:\Users\Alexander\AppData\Local\Temporary Projects\Сумма\obj\Debug\Сумма.pdb

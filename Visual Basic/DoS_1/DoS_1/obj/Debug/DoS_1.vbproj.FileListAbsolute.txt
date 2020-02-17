@@ -1,0 +1,2 @@
+C:\Users\Alexander\AppData\Local\Temporary Projects\DoS_1\bin\Debug\DoS_1.exe.config
+D:\Документы\VB&VBA_Excell\Visual Basic\DoS_1\DoS_1\bin\Debug\DoS_1.exe.config

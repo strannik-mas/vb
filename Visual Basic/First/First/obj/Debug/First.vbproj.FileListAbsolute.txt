@@ -1,0 +1,14 @@
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\bin\Debug\First.exe.config
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\bin\Debug\First.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\bin\Debug\First.pdb
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\bin\Debug\First.xml
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\obj\Debug\First.Form1.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\obj\Debug\First.Resources.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\obj\Debug\First.vbproj.GenerateResource.Cache
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\obj\Debug\First.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\obj\Debug\First.xml
+C:\Users\Alexander\AppData\Local\Temporary Projects\First\obj\Debug\First.pdb
+D:\Документы\VB&VBA_Excell\Visual Basic\First\First\bin\Debug\First.exe.config
+D:\Документы\VB&VBA_Excell\Visual Basic\First\First\obj\Debug\First.exe
+D:\Документы\VB&VBA_Excell\Visual Basic\First\First\obj\Debug\First.xml
+D:\Документы\VB&VBA_Excell\Visual Basic\First\First\obj\Debug\First.pdb
